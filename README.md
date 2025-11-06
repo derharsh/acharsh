@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @acharsh
-- 👀 I’m interested in Science, Space, Music, Tech, Anime
+- 👀 I’m interested in Mathematics, Theoretical Physics
 - 🌱 I’m currently learning Python, C++, java
 - 📫 How to reach me caccacpenguin@gmail.com
